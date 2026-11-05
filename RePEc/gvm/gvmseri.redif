@@ -1,0 +1,12 @@
+Template-Type: ReDIF-Series 1.0
+Name: Revista Dominicana de Economía
+Description: Revista de economía publicada por la Academia de Ciencias de la República Dominicana.
+Provider-Name: Academia de Ciencias de la República Dominicana
+Provider-Homepage: https://www.academiadecienciasrd.org/
+Maintainer-Name: José Luis De Ramón
+Maintainer-Email: economista@academiadecienciasrd.org
+Editor-Name: José Luis De Ramón
+Editor-Email: economista@academiadecienciasrd.org
+Type: ReDIF-Article
+Handle: RePEc:gvm:rdecon
+ISSN: 2220-2692

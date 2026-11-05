@@ -1,0 +1,45 @@
+PAQUETE DEFINITIVO PARA PUBLICAR EN IDEAS/RePEc
+
+Revista: Revista Dominicana de Economía
+Entidad editora: Academia de Ciencias de la República Dominicana
+Contacto: José Luis De Ramón
+Correo: economista@academiadecienciasrd.org
+ISSN impreso: 2220-2692
+Código de archivo asignado por RePEc: gvm
+Identificador del archivo: RePEc:gvm
+
+CONTENIDO
+
+- RePEc/gvm/gvmarch.redif: plantilla del archivo institucional.
+- RePEc/gvm/gvmseri.redif: plantilla de la revista.
+- RePEc/gvm/rdecon/2023-11.redif: metadatos de los 33 artículos del volumen 11, número 11 (2023).
+- RePEc/gvm/index.html: índice de la carpeta principal.
+- RePEc/gvm/rdecon/index.html: índice de los archivos de artículos.
+
+INSTRUCCIONES PARA GITHUB PAGES
+
+1. Publicar el contenido en el repositorio público academiaeco/repec-gvm sin cambiar la estructura RePEc/gvm.
+2. La dirección pública esperada es:
+   https://academiaeco.github.io/repec-gvm/RePEc/gvm/
+3. Confirmar que gvmarch.redif y gvmseri.redif se abren o descargan públicamente.
+4. Confirmar que la subcarpeta rdecon y el archivo 2023-11.redif son accesibles.
+5. Mantener los archivos index.html si el servidor no permite listar directorios.
+6. Permitir que los archivos con extensión .redif sean servidos mediante HTTPS.
+
+DESPUÉS DE PUBLICAR
+
+1. Validar las plantillas en:
+   https://econpapers.repec.org/scripts/redifcheck.pl
+2. Responder a RePEc indicando la URL del archivo.
+3. Comprobar posteriormente el estado en:
+   https://econpapers.repec.org/check/gvm/
+
+No deben modificarse ni reutilizarse los identificadores Handle de los artículos una vez que RePEc active el archivo.
+
+DIRECCIÓN DEL REPOSITORIO
+
+https://github.com/academiaeco/repec-gvm
+
+DIRECCIÓN DEL ARCHIVO REPEC EN GITHUB PAGES
+
+https://academiaeco.github.io/repec-gvm/RePEc/gvm/
